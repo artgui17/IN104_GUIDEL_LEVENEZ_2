@@ -1,6 +1,8 @@
 # IN104_GUIDEL_LEVENEZ_2
-Navigation app
+Navigation app:
+
 L'application est en phase de développement.
+
 Il est possible d'inscrire son adresse de départ et d'arrivée sur la page d'accueil.
 Il est possible de mettre des points d'intérêts en adresse(par ex: gare de massy palaiseau), en effet, nous utilisons le moteur de recherche de google.
 Ensuite on choisit son moyen de transport.
